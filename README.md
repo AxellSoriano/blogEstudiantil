@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Platzi-tests
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -162,3 +163,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+=======
+# blogEstudiantil
+blog para ayuda de estudiantes
+>>>>>>> 28d4f986af44eeda516e927828cb3f80ba224e1c
